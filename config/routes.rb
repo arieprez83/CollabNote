@@ -1,4 +1,24 @@
 Collabnote::Application.routes.draw do
+  get "user/create"
+
+  get "user/delete"
+
+  get "tag/save"
+
+  get "tag/delete"
+
+  get "notebook/edit"
+
+  get "notebook/create"
+
+  get "notebook/save"
+
+  get "search/tag"
+
+  get "search/user"
+
+  get "search/keyword"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
