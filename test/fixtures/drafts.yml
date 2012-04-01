@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  GUID: MyString
+  Username_id: MyString
+  Name: MyString
+  Text: MyText
+  belongs_to: 
+
+two:
+  GUID: MyString
+  Username_id: MyString
+  Name: MyString
+  Text: MyText
+  belongs_to: 

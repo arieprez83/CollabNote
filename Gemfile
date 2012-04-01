@@ -29,7 +29,7 @@ gem 'jquery-rails'
 ##The above are all standard defaults. The below were added by SRL on 3.29.12
 
 gem 'evernote'
-
+gem 'oauth'
 
 
 ###############################################

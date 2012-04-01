@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ID: 1
+  Name: MyString
+  LastAccessed: 2012-03-29 11:56:25
+  Owner: MyString
+  Username_id: MyString
+  belongs_to: 
+
+two:
+  ID: 1
+  Name: MyString
+  LastAccessed: 2012-03-29 11:56:25
+  Owner: MyString
+  Username_id: MyString
+  belongs_to: 

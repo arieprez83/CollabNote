@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  GUID: MyString
+  Username_id: MyString
+  OID_AUTH: MyText
+  LastAccessed: 2012-03-29 11:55:50
+  belongs_to: 
+
+two:
+  GUID: MyString
+  Username_id: MyString
+  OID_AUTH: MyText
+  LastAccessed: 2012-03-29 11:55:50
+  belongs_to: 
